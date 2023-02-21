@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+  /* Ubuntu will apply to every thing until changed */
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  outline: none;
+  border: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+/* Fixed the border issue with input elements and right icon */
+.rightIcon {
+  height: 90%;
+  right: 5px;
+  top: 5%;
+  background-color: transparent;
+}
+
+/* Fixed the border issue with input elements and left icon */
+.leftIcon {
+  height: 90%;
+  left: 5px;
+  top: 5%;
+}

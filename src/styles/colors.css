@@ -1,0 +1,16 @@
+:root {
+  --dark-green: #004643;
+  --light-green: #abd1c6;
+  --yellow: #f9bc60;
+  --red: #e16162;
+  --gray: #e8e4e6;
+  --white: #fffffe;
+  --black: #001e1d;
+  --light-black: #0f3433;
+
+  /* Trying to name colors more accurately */
+  --primary: #004643;
+  --primary-monochrome: #abd1c6;
+  --secondary: #f9bc60;
+  --tertiary: #e16162;
+}
